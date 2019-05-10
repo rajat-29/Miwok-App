@@ -13,7 +13,7 @@
             android:label="Phrases"/>
         <activity
             android:name=".FamilyActivity"
-            android:label="Family" />
+            android:label="Family Members" />
         <activity
             android:name=".ColorsActivity"
             android:label="Colors" />
