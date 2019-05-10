@@ -8,8 +8,18 @@
         android:label="Miwok"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".NumbersActivity"
-            android:label="Numbers"></activity>
+        <activity
+            android:name=".PhrasesActivity"
+            android:label="Phrases"/>
+        <activity
+            android:name=".FamilyActivity"
+            android:label="Family" />
+        <activity
+            android:name=".ColorsActivity"
+            android:label="Colors" />
+        <activity
+            android:name=".NumbersActivity"
+            android:label="Numbers" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

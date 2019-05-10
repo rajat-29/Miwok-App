@@ -4,13 +4,22 @@ public class Word {
 
     private String mDefaultTranslation;
 
-    private String mMewokTranslation;
+    private String mMiworkTranslation;
 
-    public Word(String vName, String vNumber)
+    public Word(String defaultTranslation, String miworkTranslation)
     {
-        mDefaultTranslation = vName;
-        mMewokTranslation = vNumber;
+        mDefaultTranslation = defaultTranslation;
+        mMiworkTranslation = miworkTranslation;
     }
 
+
+    public String getDefaultTranslation(){
+        return mDefaultTranslation;
+    }
+
+
+    public String getMiworkTranslation(){
+        return mMiworkTranslation;
+    }
 
 }
