@@ -2,7 +2,7 @@
 
 This app displays lists of vocabulary words for the user to learn the Miwok language. 
 
-##Images
+## Images
 
 <img src="https://user-images.githubusercontent.com/38129975/58395398-974d7980-8065-11e9-8c35-4e9231e32a0a.jpg" width="280px" height="500px"><img src="https://user-images.githubusercontent.com/38129975/58395408-b0562a80-8065-11e9-8f2c-8d410150027b.jpg" width="280px" height="500px" align="right">
 
